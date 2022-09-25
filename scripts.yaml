@@ -1,2 +1,0 @@
-scripts:
-  start: deno run --allow-read --allow-net --config ./tsconfig.json server.tsx

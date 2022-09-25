@@ -1,0 +1,8 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lingomate/website",
+  "author": "wickedev <orange881217@gmail.com>",
+  "license": "MIT"
+}
